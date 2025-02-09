@@ -1,2 +1,2 @@
 # Summarization.cpp
-My summarization about what i have learned until now about c++
+My summarization about some of c++ basics
